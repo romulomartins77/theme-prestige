@@ -113,5 +113,7 @@
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-  </body>
+  <!-- Não remova. Checkout Yampi. -->
+{% capture yampi_snippet_content %}{% include 'YampiSnippet' %}{% endcapture %} {% unless yampi_snippet_content contains 'Liquid error' %} {% include 'YampiSnippet' %} {% endunless %}
+<!-- Não remova. Checkout Yampi. --> </body>
 </html>
