@@ -14,11 +14,19 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "About",
+            "content": "<p>Seventh é uma marca que traduz conforto premium, estética minimalista e um toque funcional em peças cotidianas. Desde 2019, desenvolvemos coleções unissex e atemporais, com forte apelo visual e uma estética urbano-contemporânea.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
+            "content": "<p>Inscreva-se em nossa newsletter para receber ofertas exclusivas</p>",
             "button_background": "",
             "button_text_color": ""
           }
@@ -30,20 +38,12 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
+        "text",
         "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
         "color_scheme": "",
