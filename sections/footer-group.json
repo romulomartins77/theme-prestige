@@ -22,15 +22,6 @@
             "enable_follow_on_shop": true
           }
         },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "title": "Newsletter",
-            "content": "<p>Inscreva-se em nossa newsletter para receber ofertas exclusivas</p>",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "links_Uyynez": {
           "type": "links",
           "settings": {
@@ -46,13 +37,22 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Inscreva-se em nossa newsletter para receber ofertas exclusivas</p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "text",
-        "newsletter",
         "links_Uyynez",
-        "links_kBrzyE"
+        "links_kBrzyE",
+        "newsletter"
       ],
       "settings": {
         "color_scheme": "",
