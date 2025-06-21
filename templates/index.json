@@ -187,99 +187,12 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
-    },
-    "image-with-text-scroll": {
-      "type": "images-with-text-scroll",
-      "blocks": {
-        "item-1": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-2": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-3": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
-            "product_2_vertical_position": 40,
-            "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
-            "product_4": "",
-            "product_4_horizontal_position": 85,
-            "product_4_vertical_position": 85
-          }
-        }
-      },
-      "block_order": [
-        "look-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
-        "popover_title": "Shop the look"
-      }
     }
   },
   "order": [
     "slideshow",
     "featured-collections",
     "slideshow_HCXeQC",
-    "featured_collections_YA3kiK",
-    "image-with-text-scroll",
-    "shop-the-look"
+    "featured_collections_YA3kiK"
   ]
 }
