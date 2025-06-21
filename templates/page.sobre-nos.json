@@ -11,10 +11,55 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_WtkyLt": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_TMUqCj": {
+          "type": "subheading",
+          "settings": {
+            "text": "Seventh"
+          }
+        },
+        "heading_mJbeaA": {
+          "type": "heading",
+          "settings": {
+            "text": "Sobre Nós",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_b6RRVV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A Seventh nasceu com um propósito simples: criar roupas que combinem conforto absoluto, estética limpa e funcionalidade real. Fundada em Londres em 2019, a marca surgiu da vontade de simplificar o vestir no dia a dia — oferecendo peças essenciais, com qualidade elevada e design atemporal.</p><p>Inspirados por um estilo de vida urbano, criamos coleções unissex que se adaptam ao corpo e ao momento. Nossos produtos são desenvolvidos com tecidos premium, caimentos pensados nos mínimos detalhes e uma paleta neutra que facilita combinações. Tudo é desenhado para durar, vestir bem e falar por si — sem exageros, sem excessos.</p><p>O nome “Seventh” vem do sétimo dia, o dia de descanso. É isso que queremos entregar: peças que trazem leveza, praticidade e um sentimento de estar em casa, onde quer que você esteja.</p><p>Bem-vindo à Seventh — um novo essencial.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_TMUqCj",
+        "heading_mJbeaA",
+        "richtext_b6RRVV"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/SEVENTHSCANBATCH2001_1_09a9cb8a-33f3-4994-9979-bef18035aca9.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_WtkyLt"
   ]
 }
