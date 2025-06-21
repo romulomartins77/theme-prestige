@@ -17,12 +17,12 @@
           "settings": {
             "image": "shopify://shop_images/SEVENTHSCAN011_4e8ab576-6a07-4dad-81cd-320e5d38fe66.jpg",
             "mobile_image": "shopify://shop_images/SEVENTHSCAN008_39514f6e-148e-4fa3-8c8e-734f21ae2249.jpg",
-            "subheading": "Novo Drop dISPONÍVEL",
-            "title": "",
+            "subheading": "Drop 01",
+            "title": "seventh",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
-            "button_1_text": "Ver Drop",
+            "button_1_text": "",
             "button_1_link": "",
             "button_1_style": "outline",
             "button_1_background": "#ffffff",
@@ -63,7 +63,7 @@
           "settings": {
             "collection": "todos-os-produtos",
             "products_count": 8,
-            "title": "",
+            "title": "peças limitadas",
             "link_url": "",
             "link_text": ""
           }
@@ -81,7 +81,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "New"
+        "subheading": ""
       }
     },
     "multi-column": {
