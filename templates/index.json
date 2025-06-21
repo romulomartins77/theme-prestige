@@ -159,6 +159,35 @@
         "controls_color": "#ffffff"
       }
     },
+    "featured_collections_YA3kiK": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_qMfELa": {
+          "type": "collection",
+          "settings": {
+            "collection": "mais-vendidos",
+            "products_count": 8,
+            "title": "mais vendidos",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_qMfELa"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -249,6 +278,7 @@
     "slideshow",
     "featured-collections",
     "slideshow_HCXeQC",
+    "featured_collections_YA3kiK",
     "image-with-text-scroll",
     "shop-the-look"
   ]
