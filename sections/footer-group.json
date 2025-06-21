@@ -31,10 +31,18 @@
             "button_text_color": ""
           }
         },
-        "links": {
+        "links_Uyynez": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "navega-o",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_kBrzyE": {
+          "type": "links",
+          "settings": {
+            "menu": "pol-ticas-e-termos",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -43,7 +51,8 @@
       "block_order": [
         "text",
         "newsletter",
-        "links"
+        "links_Uyynez",
+        "links_kBrzyE"
       ],
       "settings": {
         "color_scheme": "",
