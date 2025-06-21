@@ -15,7 +15,7 @@
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "md",
+        "video_size": "auto",
         "video": "shopify://files/videos/C 626066 A 594344 B 1 B 8 F 2 D 3 Ec 34603 C 8 D HD 1080 P 7 2 Mbps 47313732.mp4",
         "mobile_video": "shopify://files/videos/530 Fa 1 Ed 9 B 8 B 4 Dd 5928 F 67 C 1 F 48 Ee 2 C 9 HD 1080 P 7 2 Mbps 47700537.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
