@@ -187,12 +187,70 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
+    },
+    "images_with_text_scroll_pjxWVi": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "image_with_text_q7xUtz": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SEVENTHSCANBATCH2006_35793cde-7d48-45a1-8100-a670f272d311.jpg",
+            "subheading": "Além do Sangue, marrocos",
+            "title": "",
+            "content": "<p>Capturar o equilíbrio entre cultura e comunidade era exatamente o que imaginávamos neste segmento. Em meio à agitação da cidade, encontramos um lugar para os meninos se reagruparem - jogando cartas e respondendo à energia da Medina por meio de música e dança.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "image_with_text_3qhJGb": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SEVENTHSCANBATCH2007_c74520b3-6c86-40b0-8bbe-c1c7a01a3361.jpg",
+            "subheading": "",
+            "title": "",
+            "content": "<p>Um tema comum que observamos de um local para outro foi a conexão entre cada um dos meninos - em todas as nossas viagens e paisagens diferentes, eles permaneceram juntos, unidos como um só.<br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "image_with_text_RpbmrV": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SEVENTHSCANBATCH2001_3b5ef169-0776-43e0-9ec4-205ea7d3ec2c.jpg",
+            "subheading": "",
+            "title": "",
+            "content": "<p>Queríamos realmente nos desafiar estilisticamente e fazer com que nossos looks refletissem as silhuetas e os pontos de contato culturais de um lugar tão inspirador para nós ao construir esta coleção.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_q7xUtz",
+        "image_with_text_3qhJGb",
+        "image_with_text_RpbmrV"
+      ],
+      "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "background_image": "shopify://shop_images/SELECT_MARINA_IMG_1292.jpg",
+        "mobile_background_image": "shopify://shop_images/SELECT_MARINA_IMG_1292.jpg",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collections",
     "slideshow_HCXeQC",
-    "featured_collections_YA3kiK"
+    "featured_collections_YA3kiK",
+    "images_with_text_scroll_pjxWVi"
   ]
 }
