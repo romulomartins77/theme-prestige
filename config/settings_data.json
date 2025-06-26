@@ -29,6 +29,7 @@
     "show_quick_buy": true,
     "show_sold_out_badge": true,
     "show_discount": false,
+    "cart_type": "page",
     "social_instagram": "https://www.instagram.com/goats.lab/",
     "content_for_index": [],
     "color_schemes": {
